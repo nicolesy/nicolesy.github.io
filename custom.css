@@ -1,0 +1,16 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+div.jumbotron {
+    text-align: center;
+}
+
+.top-padding {
+    padding-top: 100px;
+}
+
+.bottom-padding {
+    padding-bottom: 50px;
+}
