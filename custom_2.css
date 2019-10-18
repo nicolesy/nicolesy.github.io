@@ -1,0 +1,9 @@
+
+* {
+    transition: 500ms;
+}
+
+div .container {
+    display: flex;
+}
+
